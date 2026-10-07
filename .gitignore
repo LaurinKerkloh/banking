@@ -36,3 +36,8 @@
 
 /app/assets/builds/*
 !/app/assets/builds/.keep
+
+*.csv
+*.CSV
+!/test/fixtures/files/**/*.csv
+!/test/fixtures/files/**/*.CSV
